@@ -1,0 +1,89 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+    width: 1610px;
+}
+
+header {
+     width: 1210px;
+     height: 700px;
+     float: left;
+     background-image: url(../img/image-header.png);
+}
+
+.logo {
+    float: left;
+    margin: 30px;
+    width: 180px;
+    height: 40px;
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+}
+
+.bar {
+    float: right;
+    margin: 45px;
+    width: 180px;
+    height: 50px;
+    background-image: url(../img/bar.png);
+    background-repeat: no-repeat;
+}
+
+.promotion {
+    float: left;
+    clear: both;
+    margin: 120px 0px 0px 70px;
+    width: 520px;
+    height: 300px;
+    background-image: url(../img/promotion.png);
+    background-repeat: no-repeat;
+}
+
+nav {
+    float: right;
+    width: 400px;
+    height: 700px;
+    background-image: url(../img/image-nav.png);
+}
+
+ul {
+     margin-top: 100px;
+ }
+li {
+     display: block;
+     float: left;
+     margin: 35px;
+     padding: 0px;
+     width: 130px;
+     height: 45px;
+     text-align: center;
+     vertical-align: middle;
+     list-style: none;
+ }
+
+a {
+    text-decoration:none;
+}
+
+main img {
+    margin: 50px 100px 0px 100px;
+}
+
+.one img {
+    width: 1820px;
+    margin: 0px; 
+}
+
+section img {
+    margin-top: -200px;
+    width: 1610px;
+}
+
+footer img {
+    margin-top: -100px;
+    width: 1610px;
+
+}
