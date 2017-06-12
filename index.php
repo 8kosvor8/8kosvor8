@@ -54,6 +54,7 @@
 		<button type="submit" style="width: 150px; background: rebeccapurple;">Отправить</button>
 		 <a href="admin/add_dish.php" style="display: block; text-decoration: none;">Добавить новое блюдо</a>
 		  <a href="admin/all_dish.php" style="display: block; text-decoration: none;">Просмотр/редактирование меню</a>
+		  <a href="admin/table.php" style="display: block; text-decoration: none;">Сводная таблица</a>
 		  <a href="admin/del_dish.php" style="display: block; text-decoration: none;">Удалить блюдо</a>
 		</div>
 		</form>
