@@ -41,7 +41,7 @@ if ($foodtime=='') {unset($foodtime);}}
 			<input type="text" name="weight" id="weight" placeholder="Введите вес"><br><br>
 			<label for="price">Цена:</label><br>
 			<input type="text" name="price" id="price" placeholder="Введите цену"><br><br>
-			<label for="foodtime">Время приема пищи:</label>
+			<label for="foodtime">Категория блюд:</label>
 			<select name="foodtime" id="foodtime"  style="margin: 0px 20px 20px 0px; width: 100px;">
 				<?
 				$myrow=mysqli_query($db,"SELECT * FROM food_time");

@@ -4,8 +4,12 @@ h1 {
 }
 
 td {
-    width: 150px; 
+    width: 200px; 
     height: 30px; 
     background: green; 
     text-align: center;
+}
+
+tr {
+	width: 200px;
 }
